@@ -6,3 +6,6 @@ thi is on client
 
 this is comited on hub
 
+
+git add
+
