@@ -9,3 +9,4 @@ this is comited on hub
 
 git add
 git push
+git status
