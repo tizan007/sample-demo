@@ -10,3 +10,35 @@ this is comited on hub
 git add
 git push
 git status
+
+
+
+
+commit e84ab8ab2ed7c059fa5500ca43bb5e0a969f3946 (HEAD -> master, origin/master)
+Author: Dinakar <Dinakar@gmail.com>
+Date:   Sat Feb 29 16:44:40 2020 +0530
+
+    status
+
+commit 46554c7ead14d6f8b7d07acf6e5e3692b7ca6c76
+Author: Dinakar <Dinakar@gmail.com>
+Date:   Sat Feb 29 16:44:23 2020 +0530
+
+    push
+
+commit 3c234d3b8018eed4b0ff68480baf0e1000bdff5d
+Author: Dinakar <Dinakar@gmail.com>
+Date:   Sat Feb 29 16:44:12 2020 +0530
+
+    add
+
+commit 9ab00efdbfec7091c85c2af7b8a1a9b131d79ca1
+Merge: 1744187 819c6d9
+Author: Dinakar <Dinakar@gmail.com>
+Date:   Sat Feb 29 16:43:01 2020 +0530
+
+    new
+:wq
+
+
+git log
